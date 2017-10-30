@@ -1,0 +1,1 @@
+Final project for CAB202 at QUT. A simple game for the ATmega32U4 microcontroller on the TeensyPewPew2 board, entitled Alien Advance. It involves shooting a wave of aliens, then defeating a mothership alien, rinse and repeat until death. The game got full marks and fulfilled all requirements.
